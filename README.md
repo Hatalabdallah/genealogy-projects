@@ -26,9 +26,9 @@ This repository contains three professional genealogy web applications built wit
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| [**Family Story**](./family-story-ui-main) | Modern genealogy platform for discovering family history | React, TypeScript, Tailwind, Vite | [Demo](https://family-story.ddumbaabdallah.com) |
-| [**Family Weaver**](./family-weaver-ui-main) | Interactive family tapestry creation tool | React, TypeScript, Framer Motion, Vite | [Demo](https://family-weaver.ddumbaabdallah.com) |
-| [**Heritage Hub**](./heritage-hub-ui-main) | Complete heritage management system with AI tools | React, TypeScript, GraphQL, Vite | [Demo](https://heritage-hub.ddumbaabdallah.com) |
+| [**Family Story**](./family-story-ui-main) | Modern genealogy platform for discovering family history | React, TypeScript, Tailwind, Vite | [Demo](https://family-story.ddumba.kyakabi.com) |
+| [**Family Weaver**](./family-weaver-ui-main) | Interactive family tapestry creation tool | React, TypeScript, Framer Motion, Vite | [Demo](https://family-weaver.ddumba.kyakabi.com) |
+| [**Heritage Hub**](./heritage-hub-ui-main) | Complete heritage management system with AI tools | React, TypeScript, GraphQL, Vite | [Demo](https://heritage-hub.ddumba.kyakabi.com) |
 
 ## ✨ Key Features
 
@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Contact:**
 - 📧 **Email**: a.ddumba@kyakabi.com
 - 📱 **Phone**: +256701019242
-- 💼 **Portfolio**: [ddumbaabdallah.com](https://ddumbaabdallah.com)
+- 💼 **Portfolio**: [ddumba.kyakabi.com](https://ddumba.kyakabi.com)
 - 🐙 **GitHub**: [@ddumbaabdallah](https://github.com/ddumbaabdallah)
 - 🔗 **LinkedIn**: [Ddumba Abdallah Kato](https://linkedin.com/in/ddumbaabdallah)
 
@@ -170,9 +170,9 @@ If you find these projects useful, please consider:
 
 <div align="center">
   
-**Built with ❤️ by [Ddumba Abdallah Kato](https://ddumbaabdallah.com)**
+**Built with ❤️ by [Ddumba Abdallah Kato](https://ddumba.kyakabi.com)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ddumbaabdallah.com-blue)](https://ddumbaabdallah.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ddumba.kyakabi.com-blue)](https://ddumba.kyakabi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ddumbaabdallah-black?logo=github)](https://github.com/ddumbaabdallah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ddumba%20Abdallah%20Kato-blue?logo=linkedin)](https://linkedin.com/in/ddumbaabdallah)
 [![Email](https://img.shields.io/badge/Email-a.ddumba@kyakabi.com-red?logo=gmail)](mailto:a.ddumba@kyakabi.com)
